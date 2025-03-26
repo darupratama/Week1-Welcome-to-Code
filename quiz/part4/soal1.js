@@ -3,6 +3,7 @@
 // yang kemudian akan ditampilkan di console.
 
 //bikin fungsinya disini
+console.log(shoutOut());
 function shoutOut() {
     console.log("halo function");
 }
